@@ -51,7 +51,11 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anushraya&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushraya&show_icons=true&locale=en&layout=compact" align="center" /></div>
+
+<br>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anushraya&" align="center" /></div>
 
